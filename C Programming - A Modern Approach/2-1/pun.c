@@ -2,7 +2,7 @@
 /* Purpose: Prints a bad pun. */
 /* Author: K. N. King         */
 
-# include <stdio.h>
+#include <stdio.h>
 
 int main(void)
 {

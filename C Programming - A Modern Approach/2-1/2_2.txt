@@ -1,0 +1,7 @@
+(a) 指令：#include... 和 int main...
+    语句：main()函数中所有内容
+(b) 输出：
+    Parkinson's Law:
+    Work expands so as to fill the time
+    available for its completion.
+    

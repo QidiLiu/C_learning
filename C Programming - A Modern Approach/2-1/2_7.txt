@@ -1,0 +1,5 @@
+for
+printf
+while
+
+（注意main不属于C语言的关键字。）
